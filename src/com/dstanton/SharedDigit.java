@@ -8,7 +8,7 @@ public class SharedDigit {
             int number1Digit2 = 0;
             int number2Digit1 = 0;
             int number2Digit2 = 0;
-
+//test for git
             number1Digit1 = number1 % 10;
             number1 /= 10;
             number1Digit2 = number1 % 10;
